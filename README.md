@@ -1,0 +1,2 @@
+# oktato-vagy
+GitHub Pages
